@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    display: flex;
+    place-items: center;
+    flex-wrap: wrap;
+    gap: 20rem;
+}
+#app {
+    width: 100%;
+    
+}
+
+.wall {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    gap: 3rem;
+    object-fit: cover;
+}
