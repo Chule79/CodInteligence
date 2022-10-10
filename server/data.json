@@ -1,0 +1,292 @@
+{
+    "characters": [
+      {
+        "id": 1,
+        "name": "Capitan John Price",
+        "age": 45,
+        "nation":"Britanico",
+        "image": "https://www.xtrafondos.com/wallpapers/vertical/capitan-john-price-call-of-duty-modern-warfare-10254.jpg",
+        "unit": "SAS",
+        "description":"Yo era solo un teniente en ese entonces... haciendo un poco de trabajo sucio. Chernobyl . Navidad para los malos. Incluso una década después, muchos de ellos todavía lo usaban para tener en sus manos material nuclear... un montón de ' em, incluido un tal Imran Zakhaev . Por supuesto que no podíamos dejar que eso sucediera. ¿Dinero por barras de combustible usadas? Esa es una gran receta para la destrucción. Era la primera vez que nuestro gobierno autorizaba una orden de asesinato desde la Segunda Guerra Mundial. Estaba bajo el mando del capitán MacMillan" ,
+        "ability":"Combate cuerpo a cuerpo",
+        "service":"Activo"
+      },
+
+      {
+        "id": 2,
+        "name": "Sargento Kyle Gaz Garrick",
+        "age": 30,
+        "nation":"Britanico",
+        "image": "https://static1.personality-database.com/profile_images/14c0ecee91784784be266604cd890568.png",
+        "unit": "SAS",
+        "description":"Kyle Garrick se alistó en el ejército británico en 2014, sirviendo en el regimiento del duque de Lancaster, pasando cuatro años participando en vuelos de prueba, competencia de salto y puntería antes de pasar la selección para el servicio aéreo especial de élite (SAS) de Su Majestad, donde actualmente se desempeña como sargento por sexto año. Encargado de Irlanda del Norte, Bosnia, Turquía, Irak, Afganistán y Siria. Garrick ha pasado la mayor parte de su carrera cazando terroristas. Kyle ganó las Alas de Paracaídas de Oro del Cuerpo de Marines de los Estados Unidos. " ,
+        "ability":"Letal con armas cortas",
+        "service":"Activo"
+      },
+
+      {
+        "id": 3,
+        "name": "Alex",
+        "age": 32,
+        "nation":"Estadounidense",
+        "image": "https://www.mundoplayers.com/wp-content/uploads/2020/05/Alex-850x560-1.jpg",
+        "unit": "Warcom",
+        "description":"Sus perfiles de misión incluyeron contrainsurgencia, reconocimiento especial, lucha contra el terrorismo, guerra de información y lucha contra la proliferación de armas de destrucción masiva. Las herramientas de su oficio eran computadoras portátiles, ametralladoras ligeras, teléfonos satelitales y drones de combate equipados con cohetes. Alex también dirigió equipos pequeños, entrenados para infiltrarse en las líneas enemigas y sobrevivir en condiciones hostiles en lugares hostiles." ,
+        "ability":"Letal a largo alcance",
+        "service":"Activo"
+      },
+
+      {
+        "id": 4,
+        "name": "Farah Karim",
+        "age": 26,
+        "nation":"Urzikistan",
+        "image": "https://www.gamesatlas.com/images/cod-modern-warfare/operators/farah-bg.jpg",
+        "unit": "Chimera",
+        "description":"Farah es miembro fundador y comandante de la Fuerza de Liberación de Urzikstan, luchando contra la ocupación extranjera desde 2010. Es reconocida no solo por liderar la resistencia contra las tropas enemigas sino por establecer unidades de protección para combatir grupos terroristas en todo Urzikstan. Bajo el liderazgo de Farah, las milicias civiles juegan un papel crítico en la lucha para devolver a su población subyugada a la soberanía. Sus fuerzas comprenden combatientes voluntarios masculinos y femeninos con un límite de edad máxima. Farah no permite que los menores de 15 años participen en combates de primera línea, pero todos y cada uno están invitados a recibir entrenamiento militar y unirse a sus reservas." ,
+        "ability":"Excepcional en realizar enboscadas",
+        "service":"Activo"
+      },
+
+      {
+        "id": 5,
+        "name": "Kate Laswell",
+        "age": 42,
+        "nation":"Estadounidense",
+        "image": "https://www.postavy.cz/foto/kate-laswell-foto.jpg",
+        "unit": "CIA",
+        "description":"Kate es la supervisora de la División de Actividades Especiales de la C.I.A. sobre lucha antiterrorista. La agente, junto a un grupo de operaciones especiales, deberá detener una amenaza terrorista biológica a escala global, arriesgando su vida para salvar la de millones de personas." ,
+        "ability":"Espionaje",
+        "service":"Activo"
+      },
+
+      {
+        "id": 6,
+        "name": "Hadir Karim",
+        "age": 30,
+        "nation":"Urzikistan",
+        "image": "https://www.postavy.cz/foto/hadir-karim-foto.jpg",
+        "unit": "Milicia",
+        "description":"Hadir es un luchador en la Fuerza de Liberación de Urzikstan, que sirve como teniente de combate, reportando directamente a su hermana menor, Farah. Juntos, luchan para proteger, rescatar y liberar a su país de la ocupación rusa. El padre de Hadir era profesor y su madre era funcionaria de su distrito en Urzikstan, ambos respetados en su comunidad de clase media. Al igual que sus padres, Hadir siempre buscó hacer algo de sí mismo, pero creció en un mundo incivilizado de calles devastadas por la guerra y la muerte en cada esquina." ,
+        "ability":"Experto disuasor",
+        "service":"Activo"
+      },
+
+      {
+        "id": 7,
+        "name": "John Soap Mactavish",
+        "age": 44,
+        "nation":" Escoces",
+        "image": "http://pm1.narvii.com/6090/efef3f89e7795db1ebf829ee7d55cacd10c76500_00.jpg",
+        "unit": "SAS",
+        "description":"No se sabe mucho sobre la vida temprana de Soap, excepto que nació como Católico Romano (como se ve en sus chapas de identificación). Él es proveniente de Escocia, lo cual es evidente por la bandera escocesa que se ve en sus chapas de identificación, junto con su acento escocés. " ,
+        "ability":"Sigiloso",
+        "service":"Baja"
+      },
+
+      {
+        "id": 8,
+        "name": "Sargento Griggs",
+        "age": 32,
+        "nation":"Estadounidense",
+        "image": "https://www.gamesatlas.com/images/cod-modern-warfare/operators/griggs-bg.jpg",
+        "unit": "SAS",
+        "description":"Griggs desempeñó un papel importante en la invasión de Medio Oriente, ayudando al escuadrón de Vásquez en la búsqueda del destacado ultranacionalista Khaled Al-Asad en un vecindario que alberga una estación de televisión. Sin embargo, al no poder encontrar a Al-Asad, Griggs y Vásquez acudieron en ayuda de un M1A2 Abrams, indicativo Warpig, que quedó atrapado en un pantano." ,
+        "ability":"Experto en rifles de asalto",
+        "service":"Baja"
+      },
+
+      {
+        "id": 9,
+        "name": "Sargento Kamarov",
+        "age": 37,
+        "nation":"Ruso",
+        "image": "https://static.wikia.nocookie.net/callofduty/images/2/22/Kamarov_MW.jpg/revision/latest?cb=20200531160808",
+        "unit": "Armisticio",
+        "description":"Dada su proximidad a las unidades S.A.S cada vez que se meten en problemas, él da soporte de infantería, fué probablemente un soldado importante en la Spetnaz Lealistas con el rango de sargento para ocultar su importancia. Aparece varias veces en el juego y es amigo de Gaz y el Capitán Price, trabajó con ellos varias veces antes del juego, como por ejemplo en Beirut. Los hace ir en varias misiones de apoyo a su ejército antes de escoltarlos hasta Nikolai, y esto produce tensión y ira en las tropas S.A.S. Cuando Kamarov sugiere: ... con un poco mas de ayuda. Gaz lo amenaza con tirar a Kamarov por un risco si no revela la ubicación del informante. Después, con la confianza ya recuperada, ayuda en una operación en conjunto de los S.A.S. y los Marines. Aparece una vez al terminar el juego para salvaguardar lo que queda del equipo que fue atacado por Zakhaev y sus guardias. Entonces ayuda a Mactavish, asegurándole que estará bien." ,
+        "ability":"Experto cuerpo a cuerpo",
+        "service":"Baja"
+      },
+
+      {
+        "id": 10,
+        "name": "Lobo Sulaman",
+        "age": 64,
+        "nation":"Urzikistan",
+        "image": "https://static.wikia.nocookie.net/callofduty/images/e/e6/TheWolf_CampaignReveal_MW.jpg/revision/latest/scale-to-width-down/350?cb=20190925094619",
+        "unit": "Al Qatala",
+        "description":"El Lobo, es uno de los dos antagonistas principales (junto a Roman Barkov) de Call of Duty: Modern Warfare. Es el líder de Al Qatala, una organización terrorista que opera en la nación de Urzikstán y es responsable de planear el robo de armas químicas, de ese país para su uso contra objetivos occidentales en todo el mundo. El lobo persigue la independencia de su pueblo por cualquier medio necesario. Sus insurgentes se centran únicamente en eliminar a los ocupantes extranjeros de su patria. " ,
+        "ability":"Explosibos",
+        "service":"Baja"
+      },
+
+      {
+        "id": 11,
+        "name": "Roman Barkov",
+        "age": 37,
+        "nation":"Ruso",
+        "image": "https://static.wikia.nocookie.net/cod/images/e/eb/ModernWarfare-11-2-2019-4-03-14-PM-626.jpg/revision/latest/scale-to-width-down/350?cb=20200514233455&path-prefix=es",
+        "unit": "Al Qatala",
+        "description":"Un general prominente en el ejército ruso, Roman Barkov lanzó una invasión de Urzikstan en el Medio Oriente en 1999 y empleó el uso de gas químico que mató a varios civiles desarmados. Al ordenar a sus tropas que se alejaran del lugar donde se desplegó el gas, Barkov logró capturar a Farah y Hadir cuando eran solo niños después de atraparlos tratando de robar uno de sus camiones y matar a dos de sus hombres. Barkov los tomó bajo su custodia y los encarceló a ambos como prisioneros." ,
+        "ability":"Torturador",
+        "service":"Baja"
+      },
+
+      {
+        "id": 12,
+        "name": "Thorne",
+        "age": 45,
+        "nation":"Britanico",
+        "image": "https://static.wikia.nocookie.net/cod/images/3/32/Vkt1c4sngwj41.jpg/revision/latest?cb=20200525003801&path-prefix=es",
+        "unit": "SAS",
+        "description":"Thorne sirvió con distinción bajo el capitán Jonathan Price y operaba en Irak, Afganistán, Urzikstan y Kastovia. En 2011, solicitó formalmente una transferencia del comando de Price, citando preocupaciones éticas. Thorne estuvo presente en la captura y el interrogatorio no autorizados de presuntos ultranacionalistas en Kastovia." ,
+        "ability":"Experto en escopetas",
+        "service":"Activo"
+      },
+
+      {
+        "id": 13,
+        "name": "Charly JohnStone",
+        "age": 47,
+        "nation":" Escoces",
+        "image": "https://static.wikia.nocookie.net/cod/images/f/f0/PsKR_C4YN2Rizg10OVXLyzk6WTAc27QqjGfjv-qxo90.jpg/revision/latest/scale-to-width-down/350?cb=20200525005758&path-prefix=es",
+        "unit": "SAS",
+        "description":"Charly se unió al ejército británico, siguiendo una tradición familiar. Ella solicitó y luego pasó la selección para el Regimiento Especial de Reconocimiento (SRR). Sirvió múltiples giras en Irak, Afganistán y Libia. Desde 2011 hasta el presente, estuvo emparejada con el teniente Jacob Thorne, rápidamente se hicieron grandes amigos y juntos mantuvieron una tasa de éxito del 84,4% en sus misiones según las cifras de la Coalición." ,
+        "ability":"Estratega de campo",
+        "service":"Activo"
+      },
+
+      {
+        "id": 14,
+        "name": "Carnicero Rahar",
+        "age": 34,
+        "nation":"Urzikistan",
+        "image": "https://static.wikia.nocookie.net/callofduty/images/0/06/JamalRahar_ATVIBlog_MW.jpg/revision/latest/scale-to-width-down/350?cb=20191005143725",
+        "unit": "Al Qatala",
+        "description":" El Carnicero de Al-Qatala es quizás el terrorista más buscado del mundo, solo superado por su mentor y líder, El Lobo. Un hombre sin país, el Carnicero afirma que toda soberanía es ilegítima, que todos los gobiernos son fraudulentos y que cada funcionario electo es un estafador que merece la muerte más atroz. El Carnicero es el ejecutor principal de Al-Qatala, a menudo referido como el número 2 del Lobo. Defiende la ideología de anarquía de A-Qatala y aplica sus principios más violentos cuando y donde puede." ,
+        "ability":"Sanguinario",
+        "service":"Baja"
+      },
+
+      {
+        "id": 15,
+        "name": "Dominic",
+        "age": 36,
+        "nation":"Frances",
+        "image": "https://static.wikia.nocookie.net/callofduty/images/5/5b/Domino_MW.jpg/revision/latest/scale-to-width-down/350?cb=20191026032355",
+        "unit": "Warcom",
+        "description":"Dominique Tam nació en 1993 en Francia. Se formó desde los 16 años para representar a Francia en los Juegos Olímpicos de verano en atletismo. No pudo clasificarse para los juegos de 2012 y estaba en camino de clasificarse para los próximos juegos olímpicos antes de que Al-Qatala atacara a París. Después del ataque de Al-Qatala, Domino se unió al ejército francés y fue seleccionada para las Fuerzas Especiales francesas, donde exhibió una forma física y una capacidad cognitiva extraordinarias. Ella rompió tres récords del regimiento." ,
+        "ability":"Letal con armas cortas",
+        "service":"Activo"
+      },
+
+      {
+        "id": 16,
+        "name": "Hans Golem Blaustein",
+        "age": 41,
+        "nation":"Aleman",
+        "image": "https://static.wikia.nocookie.net/callofduty/images/b/b3/Golem_2019_MW.jpg/revision/latest/scale-to-width-down/350?cb=20191026185449",
+        "unit": "Warcom",
+        "description":"Hans sirvió como oficial superior de Krueger, conocido como el cabo Josef Doss en el KSK, durante la Operación Nachtigall en Mozambique. Los civiles fueron encontrados muertos con 7.62 rondas de la OTAN consistentes con el arma de Krueger. Esto llevó al KSK a investigar y descubrió la identidad asumida de Krueger. Krueger escapó de la custodia con la asistencia de Blaustein. Hans nunca fue acusado formalmente por su acción y aún disfrutaba de una excelente reputación con el KSK." ,
+        "ability":"Camuflaje y sigilo",
+        "service":"Activo"
+      },
+
+      {
+        "id": 17,
+        "name": "Benjamin Otter Lee",
+        "age": 36,
+        "nation":"Britanico",
+        "image": "https://static.wikia.nocookie.net/callofduty/images/3/3e/Otter_MW.PNG/revision/latest/scale-to-width-down/350?cb=20191101032626",
+        "unit": "SAS",
+        "description":"En junio de 2011, a la edad de 19 años, Otter ganó fama internacional después de frustrar un ataque con cuchillo de Al-Qatala en Hyde Park, Londres. Golpeó al sospechoso hasta dejarlo inconsciente mientras los espectadores observaban y grababan el evento. Dos meses más tarde, se unió a los comandos británicos." ,
+        "ability":"Experto en uso de cuchillos",
+        "service":"Activo"
+      },
+
+      {
+        "id": 18,
+        "name": "Mara",
+        "age": 35,
+        "nation":"Venezuela",
+        "image": "https://static.wikia.nocookie.net/callofduty/images/7/7e/Mara_Portrait.png/revision/latest/scale-to-width-down/350?cb=20191204021301",
+        "unit": "Warcom",
+        "description":"En algún momento después de la invasión de Verdansk por Al-Qatala bajo el liderazgo de Khaled Al-Asad el 3 de marzo del 2020, Mara fue enviada a Verdansk, Kastovia para interceptar un contenedor de armas ChemBio. El contenedor, sin embargo, había desaparecido hace mucho tiempo y Mara y su equipo pronto fueron emboscados por fuerzas hostiles tanto de la Coalición como de la Unión. Mara logró escapar, pero perdió a seis de sus hombres en el proceso." ,
+        "ability":"Excepcional en realizar enboscadas",
+        "service":"Activo"
+      },
+
+
+      {
+        "id": 19,
+        "name": "Alice",
+        "age": 30,
+        "nation":"Venezuela",
+        "image": "https://static.wikia.nocookie.net/callofduty/images/6/60/Alice_Profile_MW2019.png/revision/latest/scale-to-width-down/350?cb=20191031041655",
+        "unit": "Armisticio",
+        "description":"Ingreso y pasó la selección para la Task Force Orange con una notable reserva del Sargento de Perforación Superior, Sargento de Primera Clase William Griggs. Como parte de Task Force Orange, Valenzuela se desplegó en Afganistán en 2010. En 2014, Alice y Wayne D-Day Davis llevaron a cabo un asalto no autorizado a una fortaleza talibán en la provincia de Kandahar para rescatar al soldado Grayson Jeffries. Alexia planeó y dirigió la pacificación exitosa de la fortaleza, pero Jeffries fue encontrado muerto. Como resultado, Alice fue degradada y Davis fue dado de baja de la reglamento Sección 8 por trastorno mental." ,
+        "ability":"Letal a largo alcance",
+        "service":"Activo"
+      },
+
+      {
+        "id": 20,
+        "name": "Raines",
+        "age": 38,
+        "nation":"Estadounidense",
+        "image": "https://static.wikia.nocookie.net/callofduty/images/0/06/Raines_DemonDogs_Operator_Coalition_Beta_MW.png/revision/latest/scale-to-width-down/350?cb=20190920215752",
+        "unit": "Armisticio",
+        "description":"Raines sirvió como operador de radio marina en la guerra de Irak entre 2007 y 2009 en infantería, blindados y reconocimiento especial. Desarrolló una reputación como un infame marine centrado en el láser. Pasó la selección para convertirse en un Marine Raiders y sirvió con distinción en Irak antes de ser redistribuido en Afganistán entre 2011 y 2015, donde fue asignado para entrenar a las fuerzas de seguridad afganas. Durante ese tiempo, consideró retirarse." ,
+        "ability":"Experto en demolicion",
+        "service":"Activo"
+      },
+
+      {
+        "id": 21,
+        "name": "Daniel Ronin Shinoda",
+        "age": 43,
+        "nation":"Estadounidense",
+        "image": "https://static.wikia.nocookie.net/callofduty/images/4/4d/RoninPortrait_Promo_MW.jpg/revision/latest/scale-to-width-down/350?cb=20200407184355",
+        "unit": "Warcom",
+        "description":"Ex Fuerzas especiales reclutadas por Warcom, conocido como el ejército de un solo hombre . Un saboteador y maestro de múltiples sistemas de combate, experto en guerra no convencional, defensa interna extranjera y reconocimiento especial." ,
+        "ability":"Combate cuerpo a cuerpo",
+        "service":"Activo"
+      },
+
+      {
+        "id": 22,
+        "name": "Nikto",
+        "age": 37,
+        "nation":"Ruso",
+        "image": "https://static.wikia.nocookie.net/callofduty/images/3/34/Nikto_Portrait.png/revision/latest/scale-to-width-down/350?cb=20191204020604",
+        "unit": "Spetsnaz",
+        "description":"Ex agente de cobertura profunda del FSB; capturado y torturado a manos del Sr. Z . Cara desfigurada, diagnosticada con trastorno disociativo agudo. Sigue siendo un soldado metódico y calculador. Reasignado a Spetsnaz para utilizar el conjunto de habilidades" ,
+        "ability":"Camuflaje y sigilo",
+        "service":"Activo"
+      },
+
+      {
+        "id": 23,
+        "name": "Talon",
+        "age": 32,
+        "nation":"Canada",
+        "image": "https://static.wikia.nocookie.net/cod/images/7/77/Talon.png/revision/latest/scale-to-width-down/350?cb=20210615015830&path-prefix=es",
+        "unit": "Warcom",
+        "description":"Fuerzas especiales canadienses. Criado por una familia mixta de la Primera Nación en Ontario. Recomendado a Warcom después de servir con Griggs en Urzikstan. Mención de honor en la atrevida incursión de medianoche de un campamento del Al-Qatala" ,
+        "ability":"Experto disuasor",
+        "service":"Activo"
+      },
+
+      {
+        "id": 24,
+        "name": "Ghost",
+        "age": 34,
+        "nation":"Britanico",
+        "image": "https://static.wikia.nocookie.net/cod/images/7/7c/Simon_Riley_remasterizado.jpg/revision/latest/scale-to-width-down/350?cb=20210621183707&path-prefix=es",
+        "unit": "SAS",
+        "description":"Simon Riley tuvo una infancia muy traumática mientras crecía en Manchester, Inglaterra debido a su despiadado padre. La mayoría de los días, su padre traía animales peligrosos y se burlaba de ellos, incluso yendo tan lejos para obligarlo a besar a una serpiente o amenazarlo con matarlo. Cuando él y su hermano menor Tommy Riley crecían, Tommy siempre usaba una máscara de calavera por la noche para asustar a Simon. El padre de Simon a veces lo llevaba a los conciertos de Bone Lickers. En un concierto, su padre lo hizo reír por la muerte de una prostituta adicta a las drogas." ,
+        "ability":"Sombra y silencio",
+        "service":"Activo"
+      }   
+    ]
+}
