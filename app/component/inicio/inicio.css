@@ -1,15 +1,46 @@
+
 .uav{
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+  min-width: 100vh;
+  height: 100vh;
 }
 
-.uav button{
-    position: fixed;
-  bottom: 0;
-  background: rgba(0, 0, 0, 0.5);
-  color: #f1f1f1;
-  width: 100%;
+
+.inicioBtn{
   padding: 20px;
-    
+  width: 20%;
+	margin: 0 auto;
+	position: absolute;
+	top: 45%;
+  left: 40%;
+  right: 40%;
+  background-image: url("https://www.transparenttextures.com/patterns/concrete-wall-2.png");
+  font-family: CallOfDuty;
+  font-size: 30px;
+  text-align: center;
+  box-shadow: 0 0 20px rgb(0, 255, 12);
+  transition: 1s;
+  
 }
+
+  video{
+  position: fixed;
+  right: 0; 
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+  width: auto; 
+  height: auto;
+  z-index: -100;
+  
+}
+
+.inicioBtn:hover{
+  box-shadow: 0 0 130px rgb(0, 255, 12);
+  padding: 30px;
+}
+
+#app {
+  padding: 0%;
+}
+
+

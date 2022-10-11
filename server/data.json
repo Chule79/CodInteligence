@@ -5,7 +5,7 @@
         "name": "Capitan John Price",
         "age": 45,
         "nation":"Britanico",
-        "image": "https://www.xtrafondos.com/wallpapers/vertical/capitan-john-price-call-of-duty-modern-warfare-10254.jpg",
+        "image": "https://static.wikia.nocookie.net/callofduty/images/9/90/Price_Infobox_MW.jpg",
         "unit": "SAS",
         "description":"Yo era solo un teniente en ese entonces... haciendo un poco de trabajo sucio. Chernobyl . Navidad para los malos. Incluso una década después, muchos de ellos todavía lo usaban para tener en sus manos material nuclear... un montón de ' em, incluido un tal Imran Zakhaev . Por supuesto que no podíamos dejar que eso sucediera. ¿Dinero por barras de combustible usadas? Esa es una gran receta para la destrucción. Era la primera vez que nuestro gobierno autorizaba una orden de asesinato desde la Segunda Guerra Mundial. Estaba bajo el mando del capitán MacMillan" ,
         "ability":"Combate cuerpo a cuerpo",
@@ -55,7 +55,7 @@
         "nation":"Estadounidense",
         "image": "https://www.postavy.cz/foto/kate-laswell-foto.jpg",
         "unit": "CIA",
-        "description":"Kate es la supervisora de la División de Actividades Especiales de la C.I.A. sobre lucha antiterrorista. La agente, junto a un grupo de operaciones especiales, deberá detener una amenaza terrorista biológica a escala global, arriesgando su vida para salvar la de millones de personas." ,
+        "description":"Kate es la supervisora de la Division de Actividades Especiales de la C.I.A. sobre lucha antiterrorista. La agente, junto a un grupo de operaciones especiales, deberá detener una amenaza terrorista biológica a escala global, arriesgando su vida para salvar la de millones de personas." ,
         "ability":"Espionaje",
         "service":"Activo"
       },

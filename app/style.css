@@ -1,3 +1,13 @@
+@font-face {
+    font-family: CallOfDuty;
+    src: url(./public/fonts/Call\ of\ Ops\ Duty.otf);
+    font-display: block;
+  }
+
+
+
+
+
 *{
     margin: 0%;
     padding: 0%;
@@ -6,19 +16,29 @@
 body{
     display: flex;
     place-items: center;
-    flex-wrap: wrap;
-    gap: 20rem;
 }
+
 #app {
-    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 3rem;
+    background-color: #000000;
+    background-image: url("https://www.transparenttextures.com/patterns/dark-mosaic.png");
+    object-fit: cover;
     
 }
 
-.wall {
+#wall{
     display: flex;
     flex-wrap: wrap;
-    width: 100%;
     justify-content: center;
     gap: 3rem;
-    object-fit: cover;
+    padding: 0% 20%;
+    
+    
+}
+header{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.75);
 }

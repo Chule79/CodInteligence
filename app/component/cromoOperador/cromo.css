@@ -7,6 +7,9 @@
     padding: 10px;
     border: solid 4px rgb(0, 0, 0) ;
     justify-content: center;
+    background-color: #6b7772;
+    background-image: url("https://www.transparenttextures.com/patterns/concrete-wall-2.png");
+
     
 }
 .cromoImg{
@@ -26,9 +29,14 @@
 .cromo p{
     padding: 0%;
     margin: 0;
-    height: 1rem;
+    width: 100%;
+    color: #000000;
+    font-weight: bold;
+    -webkit-text-stroke: 0.10px rgb(43, 180, 63); 
+    font-family: CallOfDuty;
 }
 
 .cromo button{
     width: 80%;
 }
+
