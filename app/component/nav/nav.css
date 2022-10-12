@@ -42,7 +42,7 @@ ul > li > a{
     text-decoration: none;
     font-weight: bold;
     font-size: 2rem;
-    -webkit-text-stroke: 1.51px rgb(0, 255, 12);  
+    -webkit-text-stroke: 0.01px rgb(0, 255, 12);  
     font-family: CallOfDuty;
     color: black;
 }
@@ -92,6 +92,10 @@ input[type=checkbox]  {
     width: 65px;
     text-align: center;
     align-items: center;
+    }
+
+    ul > li > a {
+        -webkit-text-stroke: 0.5px rgb(0, 255, 12);  
     }
     
 }

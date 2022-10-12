@@ -54,3 +54,12 @@
     scale: 1.2;
     box-shadow: 0 0 130px rgb(0, 255, 12);
 }
+
+
+
+@media screen and (max-width: 1000px){ 
+    .btnCromo{
+       -webkit-text-stroke: 0.5px rgb(0, 255, 12); 
+    }
+    
+}
