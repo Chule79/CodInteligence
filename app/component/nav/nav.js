@@ -4,7 +4,7 @@ export const navPrincipal = () =>{
     `<nav> 
         <input type="checkbox" id="menu">
         <label for="menu">  
-            <img src="../../public/icon.png" class="icon"> 
+            <img src="icon.png" class="icon"> 
         </label>
 
         <ul id='navi' class='navi'>
