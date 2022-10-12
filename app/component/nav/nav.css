@@ -24,6 +24,12 @@ ul{
 input[type=search]  {
     width: 240px;
     height: 40px;
+    border-color: rgb(0, 255, 12);
+    border-radius: 20%;
+    text-align: center;
+    font-family: CallOfDuty;
+    color: black;
+    -webkit-text-stroke: 0.01px rgb(0, 255, 12);  
     }
 
 ul > li {
@@ -37,7 +43,6 @@ ul > li > a{
     font-weight: bold;
     font-size: 2rem;
     -webkit-text-stroke: 0.01px rgb(0, 255, 12);  
-    transition: all 0.5s;
     font-family: CallOfDuty;
     color: black;
 }

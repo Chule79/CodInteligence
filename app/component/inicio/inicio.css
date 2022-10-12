@@ -36,11 +36,12 @@
 
 .inicioBtn:hover{
   box-shadow: 0 0 130px rgb(0, 255, 12);
-  padding: 30px;
+  scale: 1.3;
 }
 
 #app {
   padding: 0%;
 }
+
 
 

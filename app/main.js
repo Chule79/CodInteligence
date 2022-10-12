@@ -4,7 +4,7 @@ import {getCharacters} from './pages/characters'
 import './style.css'
 import { inicioBtn } from "./component/inicio/inicio";
 import { linkPage } from "./utils/linkPage";
-import { eventArmisticio, eventChimera, eventCia, eventIndex, eventInicio, eventMilicia, eventQatala, eventSAS, eventSearch, eventSpetsnaz, eventWarcom } from "./events/events";
+import { eventArmisticio,  eventChimera, eventCia, eventIndex, eventInicio, eventMilicia, eventQatala, eventSAS, eventSearch, eventSpetsnaz, eventWarcom } from "./events/events";
 import { navPrincipal } from "./component/nav/nav";
   
 

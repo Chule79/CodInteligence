@@ -1,5 +1,6 @@
 import { cromoOperador } from "../component/cromoOperador/cromo";
 import { informOperator } from "../component/informOperator/informOperator";
+import { eventCharacter } from "../events/events";
 import { dataList } from "../main";
 import { cleanPage } from "../utils/cleanPage";
 
@@ -13,7 +14,6 @@ export const searchCharacter = (data, prueba) =>{
     cleanPage(wall)
     for (const oper of data) {
         if (oper.name.includes(prueba)){
-            console.log(oper);
             printSearchCharacters(oper);
         }
     };
@@ -28,4 +28,5 @@ const printSearchCharacters = (a) => {
     data.forEach((character) => {
         wall.innerHTML += cromoOperador(character )
       });
+      eventCharacter()
   };

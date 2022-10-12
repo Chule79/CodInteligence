@@ -16,20 +16,23 @@
 body{
     display: flex;
     place-items: center;
+    background-color: #000000;
+    background-image: url("https://www.transparenttextures.com/patterns/dark-mosaic.png");
 }
 
-#app {
+.app {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: 3rem;
-    background-color: #000000;
-    background-image: url("https://www.transparenttextures.com/patterns/dark-mosaic.png");
+    
     object-fit: cover;
+    width: 100vw;
+    
     
 }
 
-#wall{
+.wall{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -41,4 +44,10 @@ body{
 header{
     width: 100%;
     background-color: rgba(0, 0, 0, 0.75);
+}
+
+@media screen and (max-width: 1000px){ 
+    .wall{
+        padding: 0%;
+    }
 }
