@@ -1,7 +1,7 @@
 import { informOperator } from "../component/informOperator/informOperator";
 import { cleanPage } from "../utils/cleanPage";
 
-export const getSelectCharacter = async (array, seleccionado) => {
+export const getSelectCharacter =  (array, seleccionado) => {
     
     const wall = document.querySelector("#wall") 
     cleanPage(wall)
@@ -16,7 +16,7 @@ export const getSelectCharacter = async (array, seleccionado) => {
 }
 
 
-const printSelectCharacters = async (a) => {
+const printSelectCharacters =  (a) => {
     const wall = document.querySelector("#wall");
     wall.innerHTML += informOperator(a)
   };
