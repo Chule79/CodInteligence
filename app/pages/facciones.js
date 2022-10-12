@@ -5,7 +5,7 @@ import { dataList } from "../main";
 import { cleanPage } from "../utils/cleanPage";
 
 
-export const getIndex = async () => {
+export const getIndex =  () => {
     const wall = document.querySelector("#wall") 
     cleanPage(wall)
     const data = dataList;
@@ -21,7 +21,7 @@ export const getIndex = async () => {
 }
 
 
-export const getSas = async () => {
+export const getSas =  () => {
     const wall = document.querySelector("#wall") 
     cleanPage(wall)
     const opers = dataList;
@@ -41,7 +41,7 @@ const printSas = (oper) => {
 
 
 
-export const getWarcom = async () => {
+export const getWarcom =  () => {
     const wall = document.querySelector("#wall") 
     cleanPage(wall)
     const opers = dataList;
@@ -62,7 +62,7 @@ const printWarcom = (oper) => {
 
 
 
-export const getChimera = async () => {
+export const getChimera =  () => {
     const wall = document.querySelector("#wall") 
     cleanPage(wall)
     const opers = dataList;
@@ -84,7 +84,7 @@ const printChimera = (oper) => {
 
 
 
-export const getCia = async () => {
+export const getCia =  () => {
     const wall = document.querySelector("#wall") 
     cleanPage(wall)
     const opers = dataList;
@@ -106,7 +106,7 @@ const printCia = (oper) => {
 
 
 
-export const getMilicia = async () => {
+export const getMilicia =  () => {
     const wall = document.querySelector("#wall") 
     cleanPage(wall)
     const opers = dataList;
@@ -129,7 +129,7 @@ const printMilicia = (oper) => {
 
 
 
-export const getArmisticio = async () => {
+export const getArmisticio =  () => {
     const wall = document.querySelector("#wall") 
     cleanPage(wall)
     const opers = dataList;
@@ -152,7 +152,7 @@ const printArmisticio = (oper) => {
 
 
 
-export const getQatala = async () => {
+export const getQatala =  () => {
     const wall = document.querySelector("#wall") 
     cleanPage(wall)
     const opers = dataList;
@@ -176,7 +176,7 @@ const printQatala = (oper) => {
 
 
 
-export const getSpetsnaz = async () => {
+export const getSpetsnaz =  () => {
     const wall = document.querySelector("#wall") 
     cleanPage(wall)
     const opers = dataList;

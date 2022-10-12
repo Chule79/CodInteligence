@@ -9,7 +9,6 @@ import { getSelectCharacter } from "../pages/selectCharacter";
 
 
 export const addEvents = () => {
-    const select = document.querySelectorAll('.btnCromo');
     eventSearch()
     eventIndex()
     eventSAS()
@@ -26,7 +25,7 @@ export const addEvents = () => {
 
 
 
-export const eventInicio = async (e) => {
+export const eventInicio =  (e) => {
  const iniciar = document.querySelector("#inicioBtn");
     iniciar.addEventListener("click", () => getCharacters())
     ;
@@ -34,7 +33,7 @@ export const eventInicio = async (e) => {
 
 
 
-export const eventSearch = async (a) =>{
+export const eventSearch =  (a) =>{
     const search = document.querySelector("#btSearch");
     search.addEventListener("click", (e) => {
         const searchInput = document.querySelector("input[type=search]").value
@@ -49,47 +48,47 @@ export const eventSearch = async (a) =>{
 
 
 
-export const eventIndex = async (e) => {
+export const eventIndex =  (e) => {
     const index = document.querySelector("#inicio");
         index.addEventListener("click", () => getIndex());
 }
 
-export const eventSAS = async (e) => {
+export const eventSAS =  (e) => {
     const Sas = document.querySelector("#SAS");
         Sas.addEventListener("click", () => getSas());
 }
 
-export const eventWarcom = async (e) => {
+export const eventWarcom =  (e) => {
     const Warcom = document.querySelector("#Warcom");
         Warcom.addEventListener("click", () => getWarcom());
 }
 
-export const eventChimera = async (e) => {
+export const eventChimera =  (e) => {
     const Chimera = document.querySelector("#Chimera");
         Chimera.addEventListener("click", () => getChimera());
 }
 
-export const eventCia= async (e) => {
+export const eventCia=  (e) => {
     const Cia = document.querySelector("#CIA");
        Cia.addEventListener("click", () => getCia());
 }
 
-export const eventMilicia= async (e) => {
+export const eventMilicia=  (e) => {
     const Milicia = document.querySelector("#Milicia");
         Milicia.addEventListener("click", () => getMilicia());
 }
 
-export const eventArmisticio = async (e) => {
+export const eventArmisticio =  (e) => {
     const Armisticio = document.querySelector("#Armisticio");
         Armisticio.addEventListener("click", () => getArmisticio());
 }
 
-export const eventQatala = async (e) => {
+export const eventQatala =  (e) => {
     const Qatala = document.querySelector("#Qatala");
         Qatala.addEventListener("click", () => getQatala());
 }
 
-export const eventSpetsnaz = async (e) => {
+export const eventSpetsnaz =  (e) => {
     const Spetsnaz =  document.querySelector("#Spetsnaz");
         Spetsnaz.addEventListener("click", () => getSpetsnaz());
 }
@@ -99,7 +98,7 @@ export const eventSpetsnaz = async (e) => {
 
 
 
-export const eventCharacter = async () =>{
+export const eventCharacter =  () =>{
     const select = document.querySelectorAll('.btnCromo');
     console.log(select);
     select.forEach((sele) => {
