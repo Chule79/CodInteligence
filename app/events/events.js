@@ -104,10 +104,10 @@ export const eventCharacter =  () =>{
     select.forEach((sele) => {
         console.log(sele);
         sele.addEventListener("click", (eleg) => {
-            const pls = eleg.target.dataset.idOper;
+            const pls = eleg.target.id;
             console.log(pls);
             const data = dataList;
-            getSelectCharacter(data, pls);
+            getSelectCharacter(data, Number(pls));
         })
       })
 }

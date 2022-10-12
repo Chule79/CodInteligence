@@ -11,7 +11,7 @@ export const cromoOperador = (character) => {
             <p>Edad - ${character.age}</p>
             <p>Nacion - ${character.nation}</p>
             <p>Faccion - ${character.unit}</p>
-            <div data-idOper=${character.id} id="btnCromo" class="btnCromo"><a>Investigar</a></div>
+            <div data-idOper=${character.id} id=${character.id} class="btnCromo"><a id=${character.id}>Investigar</a></div>
         </div>
     `
     return cromo
