@@ -12,7 +12,7 @@ export const navPrincipal = () =>{
             <li>
                 <div class='searchOperador'>
                     <input id="searchInput" type="search" name="q" placeholder="Find Operator"  >
-                    <button id="btSearch" type="button">🔎</button>
+                    <button id="btSearch" type="button">Search</button>
                 </div>
             </li>
 
