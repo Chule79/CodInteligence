@@ -48,4 +48,5 @@ export const navPrincipal = () =>{
         </ul>
      </nav>
      `
+     return naviP
 }
